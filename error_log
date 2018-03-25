@@ -1,0 +1,148 @@
+[10-Jun-2017 02:15:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/msrinteractive/public_html/hakr/application/views/menus/main.php on line 3
+[10-Jun-2017 02:50:46 UTC] PHP Fatal error:  Cannot redeclare class User_model in /home/msrinteractive/public_html/hakr/application/models/Player_model.php on line 12
+[11-Jun-2017 20:30:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 12
+[11-Jun-2017 21:04:39 UTC] PHP Fatal error:  Call to undefined function rand_array() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 26
+[11-Jun-2017 21:14:23 UTC] PHP Fatal error:  Cannot use object of type __PHP_Incomplete_Class as array in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 19
+[11-Jun-2017 21:15:05 UTC] PHP Fatal error:  Cannot use object of type __PHP_Incomplete_Class as array in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 19
+[11-Jun-2017 21:16:45 UTC] PHP Fatal error:  Cannot use object of type __PHP_Incomplete_Class as array in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 19
+[11-Jun-2017 21:16:47 UTC] PHP Fatal error:  Cannot use object of type __PHP_Incomplete_Class as array in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 19
+[12-Jun-2017 03:31:19 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 26
+[12-Jun-2017 04:13:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 98
+[12-Jun-2017 04:16:38 UTC] PHP Fatal error:  Call to undefined method Welcome::get_state() in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 28
+[12-Jun-2017 04:17:02 UTC] PHP Fatal error:  Call to undefined method Welcome::get_state() in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 8
+[12-Jun-2017 04:17:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 4
+[16-Jun-2017 00:40:04 UTC] PHP Fatal error:  Class 'Menus' not found in /home/msrinteractive/public_html/hakr/application/controllers/Hacks.php on line 1
+[16-Jun-2017 00:41:53 UTC] PHP Fatal error:  Call to undefined method CI_Loader::select_hack() in /home/msrinteractive/public_html/hakr/application/views/menus/main.php on line 35
+[16-Jun-2017 00:49:13 UTC] PHP Fatal error:  Call to undefined method Hacks::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Hacks.php on line 40
+[16-Jun-2017 00:49:24 UTC] PHP Fatal error:  Call to undefined method Hacks::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Hacks.php on line 40
+[16-Jun-2017 00:57:01 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 00:58:06 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 00:58:07 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 00:58:07 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 00:58:08 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 00:58:09 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 00:58:20 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 00:58:43 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 00:58:44 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:01:44 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:01:46 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:02:03 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 1
+[16-Jun-2017 01:02:06 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:03:24 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:03:25 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:03:26 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:03:26 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:03:27 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:03:27 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:03:27 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 8
+[16-Jun-2017 01:10:59 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 10
+[16-Jun-2017 01:13:46 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 10
+[16-Jun-2017 01:13:47 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 10
+[16-Jun-2017 01:13:48 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 10
+[16-Jun-2017 01:16:20 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 10
+[16-Jun-2017 01:16:21 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 10
+[16-Jun-2017 01:16:21 UTC] PHP Fatal error:  Call to undefined method Jobs::hack_name() in /home/msrinteractive/public_html/hakr/application/controllers/Jobs.php on line 10
+[16-Jun-2017 01:39:03 UTC] PHP Fatal error:  Call to undefined method CI_Session::unser_userdata() in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 9
+[16-Jun-2017 02:44:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 18
+[16-Jun-2017 02:44:11 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 18
+[16-Jun-2017 02:44:26 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 18
+[16-Jun-2017 02:44:27 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 18
+[16-Jun-2017 02:44:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 101
+[16-Jun-2017 02:44:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 101
+[16-Jun-2017 03:02:33 UTC] PHP Fatal error:  Cannot redeclare MY_Controller::get_event() in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 106
+[16-Jun-2017 03:03:21 UTC] PHP Fatal error:  Cannot redeclare MY_Controller::get_event() in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 106
+[16-Jun-2017 03:09:24 UTC] PHP Fatal error:  Call to undefined function get() in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 23
+[16-Jun-2017 03:09:38 UTC] PHP Fatal error:  Call to undefined function get() in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 101
+[16-Jun-2017 03:28:39 UTC] PHP Fatal error:  Call to a member function where() on a non-object in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 9
+[16-Jun-2017 04:07:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 49
+[16-Jun-2017 04:24:38 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/msrinteractive/public_html/hakr/application/controllers/Events.php on line 49
+[16-Jun-2017 15:55:46 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 4
+[18-Jun-2017 04:03:01 UTC] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE), expecting function (T_FUNCTION) in /home/msrinteractive/public_html/hakr/application/controllers/Pvp.php on line 21
+[18-Jun-2017 04:03:06 UTC] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE), expecting function (T_FUNCTION) in /home/msrinteractive/public_html/hakr/application/controllers/Pvp.php on line 21
+[18-Jun-2017 04:03:07 UTC] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE), expecting function (T_FUNCTION) in /home/msrinteractive/public_html/hakr/application/controllers/Pvp.php on line 21
+[18-Jun-2017 06:05:17 UTC] PHP Fatal error:  Function name must be a string in /home/msrinteractive/public_html/hakr/application/controllers/Pvp.php on line 106
+[18-Jun-2017 06:13:06 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/msrinteractive/public_html/hakr/application/controllers/Pvp.php on line 108
+[19-Jun-2017 02:34:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/msrinteractive/public_html/hakr/application/views/menus/full-stats.php on line 56
+[19-Jun-2017 02:44:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/msrinteractive/public_html/hakr/application/views/battle/success.php on line 18
+[21-Jun-2017 06:55:11 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 4
+[21-Jun-2017 07:17:21 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 4
+[21-Jun-2017 07:28:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/msrinteractive/public_html/hakr/application/controllers/Coffee.php on line 28
+[21-Jun-2017 21:24:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/msrinteractive/public_html/hakr/application/controllers/Darkweb.php on line 31
+[22-Jun-2017 01:25:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/controllers/Market.php on line 21
+[22-Jun-2017 01:56:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/msrinteractive/public_html/hakr/application/controllers/Identity.php on line 241
+[22-Jun-2017 13:38:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/msrinteractive/public_html/hakr/application/views/menus/buy_shares.php on line 7
+[22-Jun-2017 14:49:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 257
+[22-Jun-2017 16:03:20 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/msrinteractive/public_html/hakr/application/views/menus/graffiti.php on line 21
+[22-Jun-2017 16:04:42 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/msrinteractive/public_html/hakr/application/views/menus/graffiti.php on line 21
+[23-Jun-2017 00:10:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/msrinteractive/public_html/hakr/system/database/drivers/mysqli/mysqli_result.php on line 168
+[23-Jun-2017 00:15:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 22 bytes) in /home/msrinteractive/public_html/hakr/system/database/DB_driver.php on line 1527
+[23-Jun-2017 00:15:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/msrinteractive/public_html/hakr/system/database/drivers/mysqli/mysqli_result.php on line 168
+[23-Jun-2017 00:15:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/msrinteractive/public_html/hakr/system/database/drivers/mysqli/mysqli_result.php on line 168
+[23-Jun-2017 00:15:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/msrinteractive/public_html/hakr/system/database/drivers/mysqli/mysqli_result.php on line 168
+[23-Jun-2017 00:23:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 608 bytes) in /home/msrinteractive/public_html/hakr/system/database/drivers/mysqli/mysqli_driver.php on line 305
+[23-Jun-2017 00:46:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/msrinteractive/public_html/hakr/system/database/DB_query_builder.php on line 2709
+[01-Jul-2017 02:32:22 UTC] PHP Fatal error:  Function name must be a string in /home/msrinteractive/public_html/hakr/application/views/includes/top-stats.php on line 2
+[01-Jul-2017 02:32:32 UTC] PHP Fatal error:  Function name must be a string in /home/msrinteractive/public_html/hakr/application/views/includes/top-stats.php on line 2
+[01-Jul-2017 02:32:41 UTC] PHP Fatal error:  Function name must be a string in /home/msrinteractive/public_html/hakr/application/views/includes/top-stats.php on line 2
+[01-Jul-2017 06:33:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/msrinteractive/public_html/hakr/application/views/includes/header.php on line 23
+[02-Jul-2017 04:21:59 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[02-Jul-2017 04:22:00 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[02-Jul-2017 04:22:02 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[02-Jul-2017 04:22:04 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[02-Jul-2017 04:22:06 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[02-Jul-2017 04:22:08 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[02-Jul-2017 04:22:10 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[02-Jul-2017 04:22:12 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[02-Jul-2017 04:22:13 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ')' in /home/msrinteractive/public_html/hakr/application/views/menus/chat-messages.php on line 1
+[06-Jul-2017 03:08:35 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[06-Jul-2017 03:28:50 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[06-Jul-2017 03:32:53 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 4
+[06-Jul-2017 03:36:42 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 4
+[06-Jul-2017 03:37:46 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[06-Jul-2017 03:38:22 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 4
+[06-Jul-2017 03:39:34 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 612
+[06-Jul-2017 03:39:36 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 612
+[06-Jul-2017 03:39:36 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 612
+[06-Jul-2017 03:40:06 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Welcome.php on line 4
+[06-Jul-2017 03:41:26 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[06-Jul-2017 03:42:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 527
+[06-Jul-2017 03:42:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 527
+[06-Jul-2017 14:13:01 UTC] PHP Fatal error:  Call to undefined method Events::clear_messages() in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 518
+[06-Jul-2017 14:17:21 UTC] PHP Fatal error:  Call to undefined method Welcome::clear_messages() in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 518
+[06-Jul-2017 14:17:31 UTC] PHP Fatal error:  Call to undefined method Welcome::clear_messages() in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 518
+[06-Jul-2017 14:17:33 UTC] PHP Fatal error:  Call to undefined method Welcome::clear_messages() in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 518
+[28-Jul-2017 17:45:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:45:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 472
+[28-Jul-2017 17:46:11 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[28-Jul-2017 17:47:22 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[28-Jul-2017 17:47:25 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[28-Jul-2017 17:47:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/msrinteractive/public_html/hakr/application/core/MY_Controller.php on line 476
+[28-Jul-2017 17:47:46 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[28-Jul-2017 17:47:47 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[21-Mar-2018 19:23:55 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
+[21-Mar-2018 19:31:28 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/msrinteractive/public_html/hakr/application/controllers/Chat.php on line 1
